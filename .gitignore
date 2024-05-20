@@ -1,4 +1,4 @@
 *.jpg
 !CMakeLists.txt
 !Laba_2.cpp
-!Console1.cpp
+!lab1.cpp

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ASUS\Documents\GitHub\labavaba\CloneCMakeYulia\Laba_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\Documents\GitHub\labavaba\CloneCMakeYulia\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2AF84F19-5D26-3FBB-AF07-0B8D4A920078}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

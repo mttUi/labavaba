@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DOCUMENTS\GITHUB\LABAVABA\CLONECMAKEYULIA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/Documents/GitHub/labavaba/CloneCMakeYulia -BC:/Users/ASUS/Documents/GitHub/labavaba/NewRes2 --check-stamp-file C:/Users/ASUS/Documents/GitHub/labavaba/NewRes2/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

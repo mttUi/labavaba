@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/GitHub/labavaba/NewRes2/CMakeFiles/Yulia.dir
+C:/Users/ASUS/Documents/GitHub/labavaba/NewRes2/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Documents/GitHub/labavaba/NewRes2/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ASUS/Documents/GitHub/labavaba/CloneCMakeYulia/CMakeLists.txt
+  Laba_2.cpp
+C:\Users\ASUS\Documents\GitHub\labavaba\CloneCMakeYulia\Laba_2.cpp(20,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Yulia.vcxproj -> C:\Users\ASUS\Documents\GitHub\labavaba\NewRes2\Debug\Yulia.exe
